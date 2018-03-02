@@ -1,6 +1,6 @@
 # Testsree
-Hi this is the first repository"Testsree"
-and Braanch "readme-edits"
+Hi this is the first repository"Testsree" and Braanch "readme-edits"
+
 #include <stdio.h>
  
 int main()
